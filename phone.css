@@ -1,0 +1,133 @@
+nav {
+    padding: 5px;
+    height: 157px;
+    font-family: "Fira Sans", sans-serif;
+    background-color: rgb(109, 107, 111);
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav ul{
+    justify-content: center;
+}
+nav li{
+    list-style: none;
+    margin: 5px;
+    padding: 10px;
+}
+
+.logo{
+    padding: 5px;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: bolder;
+}
+
+nav li a{
+    text-decoration: none;
+}
+
+main{
+    width: 1000px;
+}
+
+.section1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 1000px;
+}
+
+.section1::before {
+    background: url(bg5.jpg) no-repeat center center/cover;
+    content: "";
+    position: absolute;
+    z-index: -1;
+    height: 678px;
+    width: 1000px;
+    opacity: 0.9;
+    top: 0px;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.Features {
+    display: flex;
+    flex-direction: column;
+    background-color: #344058;
+    width: 1000px;
+    align-items: center;
+}
+.section2 {
+    background-color: rgb(45 56 78);
+}
+
+.section3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #2a334ce0;
+    width: 1000px;
+}
+
+
+.footer {
+    text-align: center;
+    padding: 21px 0px;
+    background-color: black;
+    color: white;
+    width: 1000px;
+}
+
+.box1 img{
+    margin-top: 10px;
+    height: 300px;
+}
+
+.box1 .Intro{
+    justify-content: center;
+    align-items: center;
+}
+.box1 .inner_box1 .main_heading {
+    margin: 10px;
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 500;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.inner_box1 {
+    padding-top: 30px;
+    flex-direction: column;
+}
+
+.box2 img {
+    height: 250px;
+}
+
+.section2{
+    background-color: rgb(164, 190, 190);
+}
+
+.section2 .pricing{
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.boxes{
+    flex-direction: column;
+}
+
+.box{
+    margin: 8px auto;
+}

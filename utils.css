@@ -1,0 +1,63 @@
+
+.bg-red{
+    background-color: red;
+}
+
+.flex{
+    display: flex;
+ }
+.justify-between{
+    justify-content: space-between;
+}
+.justify-center{
+    justify-content: center;
+}
+.align-item{
+    align-items: center;
+}
+.text-align{
+    text-align: center;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+.font-bold{
+    font-weight:700;
+}
+.my-top{
+    margin-top: 10px;
+}
+.my-left{
+    margin-left: 10px;
+}
+.my-right{
+    margin-right: 10px;
+}
+.my-bottom{
+    margin-bottom: 10px;
+}
+.py-top{
+    padding-top: 10px;
+}
+.py-bottom{
+    padding-top: 10px;
+}
+.px-left{
+    padding-top: 10px;
+}
+.px-right{
+    padding-top: 10px;
+}
+.btn{
+    padding: 5px;
+    margin: 12px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: aliceblue;
+    color: brown;
+}
