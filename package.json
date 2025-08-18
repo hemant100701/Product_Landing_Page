@@ -1,0 +1,19 @@
+{
+  "name": "git_plp",
+  "version": "1.0.0",
+  "description": "attaching js file in productlanding page",
+  "main": "index1.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Hemendra Kumar",
+  "license": "ISC",
+  "bugs": {
+    
+  },
+  "homepage": ""
+}
