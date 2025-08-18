@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hemant100701/Product_Landing_Page.git"
+    "url": ""
   },
   "author": "Hemendra Kumar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hemant100701/Product_Landing_Page/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/hemant100701/Product_Landing_Page#readme"
+  "homepage": ""
 }
